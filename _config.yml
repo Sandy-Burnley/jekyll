@@ -1,4 +1,4 @@
-title: [Jekyll Trial]
+title: Jekyll Trial
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
